@@ -1,17 +1,19 @@
-# Hi, I'm Sherzod 👋
+# Sherzod Razzaqov
 
-🎓 Management Informaiton Systems / Banking and Audit student
-🌍 Based in Tashkent, Uzbekistan
-💻 Building web apps with Python & Django
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shishikon)
 
-## 🚀 Projects
-- [ChatPDF](https://github.com/Shishikon/portfolio) — My portfolio
-- [ClinicOS](https://github.com/Shishikon/ClinicOS) — Clinic management system
-- [Restaurantly](https://github.com/Shishikon/Restaurantly) — Restaurant website
-
+🔭 I'm currently working on AI-powered web apps  
+💬 Ask me about Python, Django, REST APIs  
 
 ## 🛠️ Tech Stack
-Python | Django | PostgreSQL | Git | Railway
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📫 Contact
-- Email: sherzodrazzaqov16@gmail.com
+## 🚀 Projects
+- [ClinicOS](https://github.com/Shishikon/ClinicOS) — Clinic management system built with Django
+- [Restaurantly](https://github.com/Shishikon/Restaurantly) — Restaurant website
+- [ChatPDF](https://github.com/Shishikon/ChatPDF) — Chat with PDF using Claude AI
