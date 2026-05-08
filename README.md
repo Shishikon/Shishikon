@@ -16,4 +16,4 @@
 ## 🚀 Projects
 - [ClinicOS](https://github.com/Shishikon/ClinicOS) — Clinic management system built with Django
 - [Restaurantly](https://github.com/Shishikon/Restaurantly) — Restaurant website
-- [ChatPDF](https://github.com/Shishikon/ad_exchange) — Advertisement Exchange
+- [Ad Exchange](https://github.com/Shishikon/ad_exchange) — Advertisement Exchange
