@@ -9,11 +9,11 @@
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-darkred?style=for-the-badge&logo=target&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-1a1a2e?style=for-the-badge&logo=tor-project&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🚀 Projects
 - [ClinicOS](https://github.com/Shishikon/ClinicOS) — Clinic management system built with Django
 - [Restaurantly](https://github.com/Shishikon/Restaurantly) — Restaurant website
-- [ChatPDF](https://github.com/Shishikon/ChatPDF) — Chat with PDF using Claude AI
+- [ChatPDF](https://github.com/Shishikon/ad_exchange) — Advertisement Exchange
