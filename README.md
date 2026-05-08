@@ -9,7 +9,7 @@
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![OSINT](https://github.com/jivoi/awesome-osint/blob/master/osint_logo.png)
+![OSINT](https://img.shields.io/badge/OSINT-darkred?style=for-the-badge)
 ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
