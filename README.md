@@ -14,7 +14,9 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![OSINT](https://img.shields.io/badge/OSINT-darkred?style=for-the-badge)
 
-
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,js,react,git,docker,linux" />
+</a>
 
 ##  Projects
 - [ClinicOS](https://github.com/Shishikon/ClinicOS) — Clinic management system built with Django
