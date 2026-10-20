@@ -7,7 +7,7 @@
 
 ##  Tech Stack
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,heroku,py,docker,postgresql,django,sklearn,fastapi" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,heroku,docker,postgresql,py,django,sklearn,fastapi" /></a>
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shishikon&layout=compact&theme=radical)
