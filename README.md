@@ -20,3 +20,7 @@
 - [ClinicOS](https://github.com/Shishikon/ClinicOS) — Clinic management system built with Django
 - [Restaurantly](https://github.com/Shishikon/Restaurantly) — Restaurant website
 - [Ad Exchange](https://github.com/Shishikon/ad_exchange) — Advertisement Exchange
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shishikon&show_icons=true&theme=radical)
