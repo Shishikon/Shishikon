@@ -2,10 +2,10 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shishikon)
 
-🔭 I'm currently working on AI-powered web apps  
+ I'm currently working on AI-powered web apps  
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=red)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -16,7 +16,7 @@
 
 
 
-## 🚀 Projects
+##  Projects
 - [ClinicOS](https://github.com/Shishikon/ClinicOS) — Clinic management system built with Django
 - [Restaurantly](https://github.com/Shishikon/Restaurantly) — Restaurant website
 - [Ad Exchange](https://github.com/Shishikon/ad_exchange) — Advertisement Exchange
