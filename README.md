@@ -24,3 +24,5 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shishikon&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shishikon&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-stats.vercel.app/readme-streak-stats?username=Shishikon&theme=radical)
