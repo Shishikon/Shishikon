@@ -30,4 +30,7 @@
 
 
 
+[![Visitor Count](https://komarev.com/ghpvc/?username=Shishikon&color=blue&style=flat-square)](https://github.com/Shishikon/Shishikon)
+
+
 
