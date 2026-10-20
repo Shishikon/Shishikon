@@ -16,9 +16,7 @@
 
 
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,django,docker,git, heroku, sklearn" />
-</a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,django,docker,git,heroku,sklearn" /></a>
 
 ##  Projects
 - [ClinicOS](https://github.com/Shishikon/ClinicOS) — Clinic management system built with Django
