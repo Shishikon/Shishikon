@@ -1,11 +1,9 @@
 # Sherzod Razzaqov
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shishikon)
 
  I'm currently working on AI-powered web apps  
 
 
-##  Tech Stack
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,heroku,docker,postgresql,py,django,sklearn,fastapi" /></a>
 
